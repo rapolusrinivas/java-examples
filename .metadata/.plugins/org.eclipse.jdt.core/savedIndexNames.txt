@@ -1,1 +1,0 @@
-INDEX VERSION 1.130+/Users/ashwinir/Desktop/srini-programs/java-examples/.metadata/.plugins/org.eclipse.jdt.core
